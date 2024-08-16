@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1709722436 source:c:\users\luffy\onedrive\bureau\projetc++\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<iomanip>
+	<chrono>
+	<cctype>
+	<sstream>
+	<ctime>
+
